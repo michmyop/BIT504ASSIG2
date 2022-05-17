@@ -1,0 +1,2 @@
+# BIT504ASSIG2
+Assignment 2 for BIT504
